@@ -9,6 +9,6 @@ class Drawing extends Art {
 public class Exercise3  extends Drawing {
     // public Exercise3() {System.out.println("Cartoon constructor!");}
     public static void main(String[] args) {
-        Cartoon x = new Cartoon();
+        Exercise3 x = new Exercise3();
     }
 }
